@@ -1,0 +1,172 @@
+/* *{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: black;
+    } */
+    html {
+      height: 100%;
+    }
+
+    body {
+      height: 100%;
+      font-family: cursive;
+      font-size:   16px;
+      line-hight:  24px;
+      background-color:white;
+      background-image: url("./img/5513.jpg");
+
+    }
+
+    header {
+      padding:10px;
+      display: block;
+      width: 790px;
+      background-color: white;
+      color: white;
+      margin-bottom: 20px;
+      border-radius: 20px;
+      background-color: blue;
+
+    }
+
+
+    nav {
+      height:500px;
+      width:150px;
+      display: inline-block;
+      vertical-align:top;
+      padding-right: 5px;
+      padding-left:  5px;
+      background-color: brown;
+      color: white;
+      border-radius:10px;
+  }
+    .button {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-right: 5px;
+      padding-left: 5px;
+      border-radius: 5px;
+      margin-top: 5px;
+      display: inline-block;
+    }
+    .button:hover {
+      background-color: #000000;
+    }
+    img {
+        border-radius: 8px;
+        max-width: 45%;
+        float:left;
+        margin: 3px;
+
+    }
+
+
+      a {
+        color: white;
+        text-decoration: none;
+      }
+      a:hover {
+        color:blue;
+      }
+
+    section {
+      width: 500px;
+      display: inline-block;
+    }
+
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align:top;
+      padding-right: 5px;
+      padding-left:  5px;
+      background-color: brown;
+      color: white;
+      border-radius:10px;
+}
+    aside strong{
+      text-decoration: underline;
+
+    }
+
+    aside ul {
+      list-style-type: none;
+    }
+
+    article h1{
+      text-decoration: underline;
+    }
+    article {
+        padding-left: .5rem;
+        margin-left: .5rem;
+        float: left;
+        box-shadow: inset 5px 0 5px -5px #29627e;
+        font-style: italic;
+        color: white;
+        text-align: justify;
+        text-justify: inter-word
+    }
+
+
+footer{
+      background-color:red;
+      text-align:center;
+      padding:5px;
+      display: block;
+      clear: both;
+      font-size: 10px;
+      color: white;
+      max-height: 100%;
+      width: 790px;
+    }
+
+
+
+
+
+.wrapper{
+      width: 810px;
+      margin: auto;
+}
+
+
+
+.aside1{
+
+  height:500px;
+  width:150px;
+  display: inline-block;
+  vertical-align:top;
+  padding-right: 5px;
+  padding-left:  5px;
+  background-color:  #29627e;
+  color: white;
+  border-radius:10px;
+  float:right;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
